@@ -11,7 +11,7 @@ Code repository with demo script for the NTU-60 dataset.
 ## Requirements
 + TO BE COMPLETED.
 
-The code has been runned on PyTorch version ?? and we therefore recommend this version.
+The code has been run on PyTorch version ?? and we therefore recommend this version.
 
 For any questions, feel free to contact giancarlo.paoletti@iit.it
 
