@@ -17,6 +17,18 @@ The code has been run on PyTorch version 1.6.0, and we therefore recommend this 
 
 For any questions, feel free to contact giancarlo.paoletti@iit.it
 
+## Dataset preprocessing
++ NTU-60
+    + Download zip file containing raw skeleton data [here](https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H)
+    + Extract the nturgb+d_skeletons folder, contained inside zip file, to "dataset/raw/ntu_60"
+    + Execute [NTU60_dataset_preprocessing.py](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian/blob/main/dataset/NTU60_dataset_preprocessing.py)
+
+
++ NTU-120
+    + Download zip files containing raw skeleton data [here](https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H) and [here](https://drive.google.com/open?id=1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w)
+    + Extract the nturgb+d_skeletons folders, contained inside zip files, to "dataset/raw/ntu_120"
+    + Execute [NTU120_dataset_preprocessing.py](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian/blob/main/dataset/NTU120_dataset_preprocessing.py)
+    
 ## Citation
  ```
 @inproceedings{UHAR_BMVC2021,
