@@ -4,12 +4,16 @@
 
 This repository provides the Pytorch code for our work accepted to [BMVC 2021](https://www.bmvc2021.com/) as an Oral Presentation.
 
-Code repository with demo script for the NTU-60 dataset.
+Code repository with training script for the NTU-60 and NTU-120 datasets.
 
 ## Requirements
-+ TO BE COMPLETED.
++ Numpy
++ Scikit-learn
++ Pytorch
++ Tqdm
++ [Wandb](https://wandb.ai/site)
 
-The code has been run on PyTorch version ?? and we therefore recommend this version.
+The code has been run on PyTorch version 1.6.0, and we therefore recommend this version.
 
 For any questions, feel free to contact giancarlo.paoletti@iit.it
 
@@ -29,3 +33,4 @@ The software is provided "as is", without warranty of any kind, express or impli
 ## LICENSE
 This project is licensed under the terms of the MIT license.
 
+<img src="./img/iit-pavis.png" alt="iit-pavis-logo" width="200"/>
