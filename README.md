@@ -1,7 +1,8 @@
 # Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance
 
 
-[![IMAGE ALT TEXT HERE](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian/blob/main/img/teaser.png)](https://www.youtube.com/watch?v=xH_EW0l6Q8M)
+[![IMAGE ALT TEXT HERE](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian/blob/main/img/img.png)](https://www.
+youtube.com/watch?v=xH_EW0l6Q8M)
 
 
 This repository provides the Pytorch code for our work accepted to [BMVC 2021](https://www.bmvc2021.com/) as an Oral Presentation.
