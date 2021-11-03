@@ -68,7 +68,7 @@ def argument_parser():
     parser.add_argument('--SSVI-penalty', type=float, default=1e-3)
 
     # Path and account settings
-    parser.add_argument('--data-path', type=str, default='/your/datapath/here')
+    parser.add_argument('--data-path', type=str, default='./dataset')
     parser.add_argument('--wandb-user', type=str, default='your_wandb_username')
 
     # Ablation settings
